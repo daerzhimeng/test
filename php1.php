@@ -1,3 +1,7 @@
 <?php
+111
+  
+  
+phpinfotest();
 
-phpinfo();
+2222
